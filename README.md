@@ -59,3 +59,4 @@ The task involved developing a complete and actionable Online Reputation Managem
 
 #Output
 
+![Image](https://github.com/user-attachments/assets/ae906e01-aa5c-4b1d-974e-8296203ea8a8)
